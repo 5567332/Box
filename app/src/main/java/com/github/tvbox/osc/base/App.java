@@ -74,7 +74,7 @@ public class App extends MultiDexApplication {
         putDefault(HawkConfig.IJK_CODEC, "硬解码");// IJK Render 软解码, 硬解码
 //        putDefault(HawkConfig.HOME_NUM, 2);       // History Number
 //        putDefault(HawkConfig.DOH_URL, 2);        // DNS
-        putDefault(HawkConfig.SEARCH_VIEW, 2);    // Text or Picture
+        putDefault(HawkConfig.SEARCH_VIEW, 1);    // Text or Picture
 
     }
 
