@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">小城影视</string>
     <string name="app_home">首页</string>
-    <string name="app_source">https://api.ccabc.cc/xcoo123</string>
+    <string name="app_source">https://api.ccabc.cc/xctv1.0</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
